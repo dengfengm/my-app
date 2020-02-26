@@ -1,0 +1,20 @@
+.FinancialProduct:hover {
+  border: 1px solid #f08b00;
+  box-shadow: 0 0 3px #ccc;
+}
+
+.FinancialProduct {
+  display: flex;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+  transition: all 0.2s ease-in-out;
+}
+
+.pro-block-item .pro-basic .pro-name-box {
+  padding: 5px;
+  margin-bottom: 6px;
+  background: linear-gradient(to right, #eee 0%, transparent 100%);
+}
